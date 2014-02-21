@@ -58,15 +58,15 @@ hr {
 	margin: 40px 0;
 	color: #A6011E;
 	background-color: #223745;
-	/*background: #4fb69f url('img/texture.png') no-repeat right top;*/
+	/*background: #223745 url(../img/blue_btn.jpg) no-repeat center;*/
 	border-radius: 25px;
 	-webkit-border-radius: 25px;
 	-moz-border-radius: 25px;
 	text-transform: uppercase;
 }
 
-btn:hover {
-	background-color: #4cc4a7;
+.btn:hover {
+	background-color: #325166;
 }
 .btn-small {
 	float: left;
