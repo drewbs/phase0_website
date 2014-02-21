@@ -105,7 +105,7 @@ btn:hover {
 	#nav ul li.contact {
 		width: 25%;
 		margin: 0 5% 0 5%;
-		padding: 18px 0;
+		padding: 12px 0;
 		color: #ABABAB;
 		font-family: 'Nunito', sans-serif;
 		text-align: center;
@@ -149,7 +149,7 @@ btn:hover {
 	box-sizing: border-box;
 	background-color: #faf3bc;
 	padding: 8px;
-	margin: 0 0 5% 0;
+	margin: 10% 0 5% 0;
 }
 
 /*pricing*/
